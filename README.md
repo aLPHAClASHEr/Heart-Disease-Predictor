@@ -12,7 +12,7 @@ A) Training of the Model
       model_selection
   Pickle
       
-B) Web App Building
+B) Web App Building: -
   Numpy
   Streamlit
   Pickle
