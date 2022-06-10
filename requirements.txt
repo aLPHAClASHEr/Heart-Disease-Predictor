@@ -2,8 +2,8 @@ streamlit
 matplotlib
 numpy
 pandas
-sklearn.model_selection
-sklearn.metrics
-sklearn.linear_models
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
+from sklearn.linear_models import LogisticRegression
 pickle
 ast
