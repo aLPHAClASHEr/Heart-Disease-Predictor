@@ -3,5 +3,5 @@ matplotlib
 numpy
 pandas
 scikit-learn
-pickle
+pickle-minix
 ast
