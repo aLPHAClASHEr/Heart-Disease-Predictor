@@ -16,3 +16,6 @@ B) Web App Building: -
   Numpy
   Streamlit
   Pickle
+
+The above model is deploed in HEROKU in the link below:-
+https://heart-anomaly-detector.herokuapp.com/
