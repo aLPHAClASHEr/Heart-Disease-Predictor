@@ -19,3 +19,13 @@ B) Web App Building: -
 
 The above model is deploed in HEROKU in the link below:-
 https://heart-anomaly-detector.herokuapp.com/
+
+
+The older model with Logistic regression was with:-
+Training data Accuracy: 84.458%
+Testing data Accuracy: 79.7658%
+
+
+The newer model added is with Random Forest Classifier:-
+Training Data Accuracy :- 100%
+Testing data Accuracy :- 96.498%
